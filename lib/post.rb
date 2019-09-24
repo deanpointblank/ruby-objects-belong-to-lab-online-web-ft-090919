@@ -1,5 +1,5 @@
 class Post
-  attr_accessor :title
+  attr_acces :title
   
   def initialize
     @title = title
